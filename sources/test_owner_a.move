@@ -25,7 +25,6 @@ module test_owner_a::test_owner_a {
             owner: owner,
             message: message
         };
-        
         (memo)
     }
 }
